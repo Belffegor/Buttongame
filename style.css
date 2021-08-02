@@ -1,0 +1,25 @@
+body{
+
+    max-width: 75%;
+    margin:  10px auto;
+    /* border: 1px solid black; */
+   
+
+}
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+#buttons{
+    display: flex
+}
+
+.btn{
+    justify-content: space-around;
+    cursor: pointer;
+}
